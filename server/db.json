@@ -1,0 +1,131 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "path": "https://www.youtube.com/watch?v=19Q60VzR84o&list=PLvCyNdMXW1_J71SHp_YbmW9lWcM7xAsBt",
+            "title": "Второстепенный персонаж",
+            "date": "01-01-2019",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                 "man"
+            ],
+            "rate": 19,
+            "time": 51,
+            "locate": {
+                "country": "Russia",
+                "city": "Moscow",
+                "place": "Paramount Comedy Fest"
+            }
+        },
+        {
+            "id": 2,
+            "path": "https://www.youtube.com/watch?v=irt7999i1R8&list=PLvCyNdMXW1_J71SHp_YbmW9lWcM7xAsBt&index=2",
+            "title": "Stand Up. Братья Стругацкие, мужская красота, воровские понятия",
+            "date": "31.01.2020",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                "books",  "crime"
+            ],
+            "rate": 17,
+            "time": 7,
+            "locate": {
+                "country": "",
+                "city": "",
+                "place": ""
+            }
+        },
+        {
+            "id": 3,
+            "path": "https://www.youtube.com/watch?v=iISDbUpB0Cg&list=PLvCyNdMXW1_J71SHp_YbmW9lWcM7xAsBt&index=3",
+            "title": "Выступил в Нью-Йорке | Денис Чужой",
+            "date": "11.03.2019",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                "short", "politic", "nice"
+            ],
+            "rate": 17,
+            "time": 11,
+            "locate": {
+                "country": "USA",
+                "city": "New York",
+                "place": ""
+            }
+        },
+        {
+            "id": 4,
+            "path": "https://www.youtube.com/watch?v=CtOD2nvn-uA",
+            "title": "Слава Комиссаренко «Спасибо, у меня всё #8»",
+            "date": "",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                "fine", "man", "good quality"
+            ],
+            "rate": 18,
+            "time": 10,
+            "locate": {
+                "country": "Russia",
+                "city": "Moscow",
+                "place": "xz"
+            }
+        },
+        {
+            "id": 5,
+            "path": "https://www.youtube.com/watch?v=8mfV4-e2KBk",
+            "title": "Слава Комиссаренко «Меня ищет КГБ»",
+            "date": "",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                "horror", "police", "nice"
+            ],
+            "rate": 17,
+            "time": 8,
+            "locate": {
+                "country": "Russia",
+                "city": "Moscow",
+                "place": "xz"
+            }
+        },
+        {
+            "id": 6,
+            "path": "https://www.youtube.com/watch?v=qhx8QCDZ-cU",
+            "title": "Слава Комиссаренко «Опрятный, свежий и чистый»",
+            "date": "",
+            "dateUpload": "01.01.2022",
+            "tags": [
+                "long", "politic", "nice"
+            ],
+            "rate": 17,
+            "time": 59,
+            "locate": {
+                "country": "Russia",
+                "city": "Moscow",
+                "place": "xz"
+            }
+        }
+    ],
+
+    "persons": [
+        {
+            "id": 1,
+            "pic": "https://thumb.tildacdn.com/tild3364-3031-4564-a337-323939333436/-/resize/863x/-/format/webp/D32.png",
+            "name": "Денис Чужой",
+            "realName": "Денис Чужой",
+            "info": "Меня зовут Денис Чужой. Я стендап-комик и сценарист. У меня есть шоу «Класс народа» про смешные комментарии от взрослых людей из «Одноклассников». Оно выходит здесь и на телеканале 2х2. Ещё в самое ближайшее время я закончу работу над stand up-концертом, сниму его и выложу на канале. Короче, Поперечный для взрослых. ",
+            "birthday": "01-01-1990",
+            "showsId": [ 1, 2, 3],
+            "youtube": "https://www.youtube.com/c/ДенисЧужой/featured",
+            "mail": "denis@denischuzhoy.ru"
+        },
+        {
+            "id": 2,
+            "pic": "https://static.tildacdn.com/tild6530-3739-4833-a136-363465616131/Rectangle_1.png",
+            "name": "Слава Комиссаренко",
+            "realName": "Слава Комиссаренко",
+            "info": "Всем привет, я Слава Комиссаренко и это мой канал.  По вопросам рекламы: pr.komissarenko@gmail.com Организация концертов и других выступлений: slavakomissarenko@gmail.com",
+            "birthday": "01-01-1987",
+            "showsId": [ 4, 5, 6],
+            "youtube": "https://www.youtube.com/c/slavakomissarenko/featured",
+            "mail": "slavakomissarenko@gmail.com"
+        }
+    ]
+}
